@@ -1,0 +1,43 @@
+# Android Studio specific
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Ignore Gradle build output
+**/build/
+**/out/
+
+# Ignore Android Studio generated files
+.idea/
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.log
+
+# Ignore unit test files
+*.un~
+*.un~
+
+# Ignore any temporary files
+tmp/
+temp/
+*.temp
+*.tmp
