@@ -35,7 +35,7 @@ Esta aplicación te permite crear y gestionar una lista de compras, marcando los
 ## Uso
 
 - **Agregar Ítems**: Usa el botón de agregar para añadir un nuevo ítem a tu lista de compras.
-- **Editar/Eliminar Ítems**: Mantén presionado un ítem para editar o eliminarlo.
+- **Editar/Eliminar Ítems**: Presiona el icono de 6puntos para editar o eliminarlo.
 - **Generar Recetas**: Marca los ítems que tienes disponibles y selecciona la opción "Ver comidas IA" en el menú de opciones para obtener sugerencias de recetas.
 - **Cambio de Tema**: Usa la opción "Cambiar Tema" en el menú de opciones para alternar entre el modo oscuro y claro.
 
